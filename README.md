@@ -1,1 +1,1 @@
-# rithm-school
+# rithm school backend course
