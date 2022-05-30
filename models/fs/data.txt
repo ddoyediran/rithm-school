@@ -1,0 +1,5 @@
+The file system or fs module can be used to read files, 
+write to files, and append files. It is extremely useful 
+for working with text files, comma separated values (csv) 
+files and many others. The fs module can also be used to 
+create and modify files and folders.
